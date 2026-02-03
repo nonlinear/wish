@@ -99,6 +99,10 @@
 **Could we merge them?**
 - Maybe: Monthly meetup + ongoing P2P transactions between meetups?
 - Or keep separate: Gatherings for learning/skills, P2P for errands?
+- **What Praxis Wish teaches us:** Aggregating #needs and #offers reveals community patterns
+  - "5 people want knitting, 2 offer it" → prioritize this in meetup
+  - "Nobody offers debt help, 8 need it" → recruit someone who can
+  - Map of needs = data for matchmakers to prioritize sessions
 - TBD based on what works
 
 **Who are the matchmakers?**

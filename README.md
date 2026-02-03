@@ -93,10 +93,34 @@ We may merge concepts, or keep them distinct. TBD.
 
 ## Inspiration
 
-- Mutual aid networks (community fridges, tool libraries)
-- Skill shares (time banking without currency)
-- Meetup.com (but hyperlocal, privacy-first, no corporate tracking)
-- Little Free Libraries (take a skill, leave a skill)
+- **Mutual aid networks** (community fridges, tool libraries)
+- **Skill shares** (time banking without currency)
+- **Meetup.com** (but hyperlocal, privacy-first, no corporate tracking)
+- **Little Free Libraries** (take a skill, leave a skill)
+- **[Praxis Wish](https://praxis.nyc/wish/)** - Micro-volunteering platform for one-off transactions
+
+### What We Learn from Praxis Wish
+
+**Praxis Wish is transactional** (things, not crafts):
+- P2P errands: pick up compost, borrow drill, get plant cutting
+- Ephemeral: connection forgotten after transaction
+- Privacy-first: geofenced, bottom-up taxonomy (#tags)
+
+**But it reveals something powerful: Map of Needs**
+- What do many people want? (compost, tools, rides)
+- What do many people offer? (extra plants, old furniture, skills)
+- What does the community actually need? (not just individuals)
+
+**We can use this insight:**
+- Matchmakers see patterns: "5 people want knitting help, 2 offer it"
+- Reveals gaps: "Nobody offers debt help, but 8 people need it"
+- Prioritize sessions: "Most requested = open session (anyone can join)"
+- Build resilience: "If many need X, we find someone who can teach it"
+
+**Key difference:**
+- Praxis Wish = distributed transactions (things)
+- This Wish = communal gathering (skills, crafts, care)
+- But both reveal community needs through aggregation
 
 ---
 
