@@ -99,10 +99,13 @@
 **Could we merge them?**
 - Maybe: Monthly meetup + ongoing P2P transactions between meetups?
 - Or keep separate: Gatherings for learning/skills, P2P for errands?
-- **What Praxis Wish teaches us:** Aggregating #needs and #offers reveals community patterns
-  - "5 people want knitting, 2 offer it" → prioritize this in meetup
-  - "Nobody offers debt help, 8 need it" → recruit someone who can
-  - Map of needs = data for matchmakers to prioritize sessions
+- **What Praxis Wish teaches us:** The platform GENERATES a Map of Needs
+  - **Unfulfilled wishes = community gaps**
+  - "5 want knitting, 0 offer" → visible gap, recruit someone
+  - "8 need debt help, 1 offer" → demand exceeds supply, prioritize
+  - "0 want gardening, 3 offer" → unused capacity, educate demand
+  - Matchmakers use unfulfilled wishes to prioritize sessions & recruit helpers
+  - Community becomes self-aware of its own needs through aggregation
 - TBD based on what works
 
 **Who are the matchmakers?**

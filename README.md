@@ -106,21 +106,39 @@ We may merge concepts, or keep them distinct. TBD.
 - Ephemeral: connection forgotten after transaction
 - Privacy-first: geofenced, bottom-up taxonomy (#tags)
 
-**But it reveals something powerful: Map of Needs**
-- What do many people want? (compost, tools, rides)
-- What do many people offer? (extra plants, old furniture, skills)
-- What does the community actually need? (not just individuals)
+**Key insight: Wish GENERATES a Map of Needs**
+- **Unfulfilled wishes = community gaps**
+- "5 people want knitting help, 0 offers" → visible gap
+- "8 people need debt refinancing, 1 offer" → demand exceeds supply
+- "Nobody wants help with gardening, 3 offer it" → unused capacity
 
-**We can use this insight:**
-- Matchmakers see patterns: "5 people want knitting help, 2 offer it"
-- Reveals gaps: "Nobody offers debt help, but 8 people need it"
-- Prioritize sessions: "Most requested = open session (anyone can join)"
-- Build resilience: "If many need X, we find someone who can teach it"
+**How this helps matchmakers:**
+- See what's missing: "We need someone who can teach X"
+- Prioritize high-demand skills for open sessions
+- Recruit helpers for unfulfilled needs
+- Balance supply/demand over time
+- Build community resilience by filling gaps
 
-**Key difference:**
-- Praxis Wish = distributed transactions (things)
-- This Wish = communal gathering (skills, crafts, care)
-- But both reveal community needs through aggregation
+**In Praxis Wish:** Unfulfilled #needs show what the community lacks (things)  
+**In our Wish:** Unfulfilled wants/offers show what skills/help are missing (crafts, care, knowledge)
+
+**Example Map of Needs:**
+```
+High demand, low supply:
+- Debt refinancing (8 want, 1 offer)
+- Computer repair (6 want, 2 offer)
+
+Balanced:
+- Knitting (3 want, 3 offer)
+
+Low demand, high supply:
+- Gardening (0 want, 3 offer) → maybe people don't know they want this?
+```
+
+**Matchmakers use this to:**
+- Recruit: "We desperately need someone who knows debt refinancing"
+- Educate: "Hey, 3 people can help with gardening—anyone interested?"
+- Prioritize: "Debt refinancing is open session this month (high demand)"
 
 ---
 
