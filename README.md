@@ -6,6 +6,24 @@ A hyperlocal, privacy-first skill exchange and mutual aid platform.
 
 **Wish** connects people who want to learn with people who want to teach, and people who need help with people who can offer it. It's built around **monthly recurring meetups** where neighbors help neighbors—no money, no tracking, just community.
 
+---
+
+## Related: Wish (Micro-Volunteering)
+
+**Note:** This project shares a name with [Wish by Praxis.nyc](https://praxis.nyc/wish/), a mutual aid micro-volunteering platform for one-off transactions (e.g., picking up compost, borrowing tools). That version facilitates individual errands with privacy-first matching.
+
+**Key difference:**
+- **Praxis Wish:** One-off transactions, many connections, ephemeral (pickup compost today, done)
+- **This Wish:** Recurring communal gatherings, everyone meets same time/place (monthly skill exchange meetup)
+
+Both privacy-first, both hyperlocal, but different models:
+- Praxis = **distributed errands** (A picks up compost from B, C borrows drill from D)
+- This = **communal gathering** (everyone meets 2nd Saturday 10am, helps each other)
+
+We may merge concepts, or keep them distinct. TBD.
+
+---
+
 ### How It Works
 
 1. **People volunteer** their skills/needs

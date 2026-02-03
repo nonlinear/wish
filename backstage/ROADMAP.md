@@ -74,13 +74,32 @@
 - Meetup.com chapters (too corporate, not mutual aid focused)
 - Community fridges / tool libraries (physical goods, not skills)
 - Mutual aid networks (crisis-focused, not ongoing skill exchange)
+- **[Praxis Wish](https://praxis.nyc/wish/)** - Micro-volunteering for one-off transactions (compost pickup, tool lending)
 
 **What's unique here?**
+- **Recurring communal gatherings** (not one-off errands like Praxis Wish)
+- Everyone meets same time/place (not distributed transactions)
 - **Recurring:** Monthly, same time/place (low overhead)
 - **Hyperlocal:** Walk/bike distance only
 - **Privacy-first:** Signal, no central surveillance
 - **Human-curated:** Matchmakers, not algorithms
 - **Mutual aid frame:** Not transactional, just neighbors helping
+
+**Comparison: This Wish vs Praxis Wish**
+
+| Feature | This Wish | Praxis Wish |
+|---------|-----------|-------------|
+| **Model** | Communal gathering | Distributed errands |
+| **Cadence** | Monthly recurring | One-off transactions |
+| **Format** | Everyone meets same time/place | Private 1-on-1 pickups |
+| **Use case** | Learn knitting, fix computer | Pick up compost, borrow drill |
+| **Community** | Builds over time (same faces) | Ephemeral (forget after) |
+| **Scale** | 10-50 people per meetup | P2P matching (unlimited) |
+
+**Could we merge them?**
+- Maybe: Monthly meetup + ongoing P2P transactions between meetups?
+- Or keep separate: Gatherings for learning/skills, P2P for errands?
+- TBD based on what works
 
 **Who are the matchmakers?**
 - Community organizers
