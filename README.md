@@ -13,14 +13,21 @@ A hyperlocal, privacy-first skill exchange and mutual aid platform.
 **Note:** This project shares a name with [Wish by Praxis.nyc](https://praxis.nyc/wish/), a mutual aid micro-volunteering platform for one-off transactions (e.g., picking up compost, borrowing tools). That version facilitates individual errands with privacy-first matching.
 
 **Key difference:**
-- **Praxis Wish:** One-off transactions, many connections, ephemeral (pickup compost today, done)
-- **This Wish:** Recurring communal gatherings, everyone meets same time/place (monthly skill exchange meetup)
+- **Praxis Wish:** One-off P2P transactions (pickup compost Tuesday, borrow drill Friday)
+- **This Wish:** Recurring communal gatherings (everyone meets 2nd Saturday 10am)
 
-Both privacy-first, both hyperlocal, but different models:
-- Praxis = **distributed errands** (A picks up compost from B, C borrows drill from D)
-- This = **communal gathering** (everyone meets 2nd Saturday 10am, helps each other)
+**Why not merge them?**
+- **Errands naturally converge to the meetup anyway**
+- "I'll bring that jacket since we're both going Saturday"
+- "Oh you need compost? I'll bring some to the meetup"
+- Monthly gathering = natural coordination point for exchanges
+- No need for separate P2P matching system
+- **Communal gathering absorbs distributed errands organically**
 
-We may merge concepts, or keep them distinct. TBD.
+**What we learn from Praxis Wish:**
+- Wish generates a **Map of Needs** (unfulfilled wishes = community gaps)
+- Use this to prioritize sessions, recruit helpers, educate demand
+- See full analysis below in "Inspiration" section
 
 ---
 

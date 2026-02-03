@@ -97,16 +97,26 @@
 | **Scale** | 10-50 people per meetup | P2P matching (unlimited) |
 
 **Could we merge them?**
-- Maybe: Monthly meetup + ongoing P2P transactions between meetups?
-- Or keep separate: Gatherings for learning/skills, P2P for errands?
-- **What Praxis Wish teaches us:** The platform GENERATES a Map of Needs
+- **Probably unnecessary** - errands will naturally converge to the meetup
+- "I'll bring that jacket since we're both going anyway"
+- "Oh you need compost? I'll bring some on Saturday"
+- Monthly meetup = natural coordination point for P2P transactions
+- No need for separate errand-matching system
+- **Communal gathering absorbs distributed errands organically**
+
+**What Praxis Wish teaches us:** The platform GENERATES a Map of Needs
   - **Unfulfilled wishes = community gaps**
   - "5 want knitting, 0 offer" → visible gap, recruit someone
   - "8 need debt help, 1 offer" → demand exceeds supply, prioritize
   - "0 want gardening, 3 offer" → unused capacity, educate demand
   - Matchmakers use unfulfilled wishes to prioritize sessions & recruit helpers
   - Community becomes self-aware of its own needs through aggregation
-- TBD based on what works
+
+**Emergent behavior:**
+- People will naturally bring things to exchange at meetups
+- "I heard you need X, I'll bring it Saturday"
+- Errands piggyback on existing gathering (no extra coordination needed)
+- Community becomes hybrid: planned sessions + organic exchanges
 
 **Who are the matchmakers?**
 - Community organizers
