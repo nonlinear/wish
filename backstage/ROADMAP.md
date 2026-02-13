@@ -201,6 +201,37 @@
 
 ---
 
+---
+
+## v0.19.0
+
+### Community Organizing (Resilience Networks) 🏴
+
+**Status:** 💡 CONCEPT (from life project)
+
+**Goal:** Build resilient community infrastructure (mesh networks, mutual aid, off-grid communication)
+
+**Philosophy:** "O jogo é criar maneiras de sermos mais resilientes"
+
+**Tasks:**
+- [x] Examine Meshtastic (https://themultiverse.school/x/cyberpony#about)
+- [ ] Home Meshtastic node (ESP32 + LoRa, base station)
+- [ ] Test with 2-3 neighbors (pilot network)
+- [ ] Skill inventory (what I offer, what I need)
+- [ ] Tool/resource sharing system
+- [ ] Self-hosted community services (Matrix, maps, directory)
+- [ ] Off-grid power backup (solar + battery)
+
+**Success Criteria:**
+- Meshtastic node running 24/7 (no internet/cell needed)
+- 2-3 neighbor nodes tested (messaging works)
+- Emergency coordination plan documented
+- Community services self-hosted
+
+**Details:** [v0.19.0-community-organizing.md](../life/backstage/epic-notes/v0.19.0-community-organizing.md)
+
+---
+
 ## 📝 Notes
 
 - **Created:** 2026-02-03
